@@ -19,4 +19,5 @@ og Funkin Team
 week 8 storymenu image
 
 unfinshed erect chart
+unfinshed Notecombo
 

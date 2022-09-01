@@ -98,6 +98,8 @@
 	<assets path="assets/week8"    library="week8"    exclude="*.ogg" if="web"/>
 	<assets path="assets/week8"    library="week8"    exclude="*.mp3" unless="web"/>
 
+	<assets path="assets/videos"    library="videos"    exclude="*.ogg" if="web"/>
+	<assets path="assets/videos"    library="videos"    exclude="*.mp3" unless="web"/>
 	
 	<assets path='example_mods' rename='mods' embed='false'/>
 	<assets path='art/readme.txt' rename='do NOT readme.txt' />

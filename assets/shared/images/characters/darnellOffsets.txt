@@ -1,0 +1,6 @@
+idle 21 275
+singUP 31 335
+singRIGHT 32 271
+singLEFT 65 249
+singDOWN 34 211
+singUP-alt 19 266

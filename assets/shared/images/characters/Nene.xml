@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nene.png">
+<SubTexture name="Nene right0000" x="0" y="0" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0001" x="819" y="0" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0002" x="1638" y="0" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0003" x="2457" y="0" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0004" x="3276" y="0" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0005" x="0" y="674" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0006" x="819" y="674" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0007" x="1638" y="674" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0008" x="2457" y="674" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0009" x="3276" y="674" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0010" x="0" y="1348" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0011" x="819" y="1348" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0012" x="1638" y="1348" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0013" x="2457" y="1348" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene right0014" x="3276" y="1348" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0000" x="0" y="2022" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0001" x="819" y="2022" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0002" x="1638" y="2022" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0003" x="2457" y="2022" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0004" x="3276" y="2022" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0005" x="0" y="2696" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0006" x="819" y="2696" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0007" x="1638" y="2696" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0008" x="2457" y="2696" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0009" x="3276" y="2696" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0010" x="0" y="3370" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0011" x="819" y="3370" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0012" x="1638" y="3370" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0013" x="2457" y="3370" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+<SubTexture name="Nene left0014" x="3276" y="3370" width="819" height="674" frameX="0" frameY="0" frameWidth="819" frameHeight="674" />
+</TextureAtlas>

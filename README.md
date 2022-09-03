@@ -18,8 +18,9 @@ og Funkin Team
 
 week 8 storymenu image
 
-unfinshed erect chart
-
-
-- unfinshed Notecombo
+Erect Chart (coming soon)
+ 
+ NoteCombo thing (coming soon)
+ 
+ Story MenuChrachter pico darnell and nene (coming soon)
 

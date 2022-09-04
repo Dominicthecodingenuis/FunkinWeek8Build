@@ -4,6 +4,6 @@ import flixel.FlxSprite;
 
 class NoteCombo
 {
-var notecombo:FlxSprite:;
+var notecombo:FlxSprite;
 }
 

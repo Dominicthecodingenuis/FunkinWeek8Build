@@ -71,37 +71,7 @@ class OptionsMenu extends Page
 	// 	openNgPrompt(NgPrompt.showLogout());
 	// }
 
-	// function openNgPrompt(prompt:Prompt, ?callback:Dynamic)
-	// {
-	// 	var func:Dynamic = checkLoginStatus();
-	// 	if (callback != null)
-	// 	{
-	// 		func = function()
-	// 		{
-	// 			checkLoginStatus();
-	// 			callback();
-	// 		};
-	// 	}
-	// 	openPrompt(prompt, func);
-	// }
-
-	// function checkLoginStatus()
-	// {
-	// 	var hasLogout:Bool = items.has('logout');
-	// 	if (hasLogout)
-	// 	{
-	// 		if (NG.core != null)
-	// 		{
-	// 			if (NG.core.loggedIn)
-	// 			{
-	// 				if (!hasLogout && NG.core != null && NG.core.loggedIn)
-	// 					items.resetItem('logout', 'login', selectLogin);
-	// 			}
-	// 			else
-	// 			{
-	// 				items.resetItem('login', 'logout', selectLogout);
-	// 			}
-	// 		}
-	// 	}
-	// }
+	function login() 
+	{
+	}
 }

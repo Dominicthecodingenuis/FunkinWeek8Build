@@ -674,7 +674,7 @@ class PlayState extends MusicBeatState
 							defaultCamZoom = 0.95;
 							curStage = 'darnell';
 							var bg:BGSprite = new BGSprite('alley', -1500, -850, 1, 1);
-							bg.setGraphicSize(Std.int(bg.width * 0.5));
+							bg.setGraphicSize(Std.int(bg.width * 0.9));
 							add(bg);
 							
 		          }
@@ -816,9 +816,13 @@ class PlayState extends MusicBeatState
 					gf.y -= 75;
 				}
 					case 'darnell':
-						dad.y += 550;
+						dad.y += 890;
 						dad.x -= 50;
 						gf.x += 25;
+						gf.y += 320;
+						boyfriend.y += 400;
+						boyfriend.x -= 40;
+
 
 		}
 

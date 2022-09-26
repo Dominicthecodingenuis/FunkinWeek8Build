@@ -928,6 +928,21 @@ class PlayState extends MusicBeatState
 		iconP2.cameras = [camHUD];
 		scoreTxt.cameras = [camHUD];
 		doof.cameras = [camHUD];
+				
+				
+	       
+		switch (curSong.toLowerCase())
+		{
+		case 'dadbattle':
+			erect();
+	       case 'south':
+			erect();
+		case 'bopeebo':
+			erect();
+	       case 'milf':
+			erect();
+		}
+				
 
 		// if (SONG.song == 'South')
 		// FlxG.camera.alpha = 0.7;

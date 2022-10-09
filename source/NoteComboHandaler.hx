@@ -10,4 +10,5 @@ class NoteCombo extends FlxSprite
 		animation.addByPrefix('ComboNote', 'appear', 24, false);
 		animation.addByPrefix('ComboNote', 'disappear', 24, false);
 	}
+		animation.play('ComboNote');
 }

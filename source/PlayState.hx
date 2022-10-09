@@ -227,8 +227,6 @@ class PlayState extends MusicBeatState
 				storyDifficultyText = "Normal";
 			case 2:
 				storyDifficultyText = "Hard";
-				case 3:
-					storyDifficultyText = "Erect";
 		}
 
 		iconRPC = SONG.player2;

@@ -12,9 +12,9 @@ og Funkin Team
 
 - [Rev2-GIt ](https://github.com/Rev2-Git) og week 8 source
 - [Angeldtf](https://github.com/AngelDTF) -week 7 source
-- [unkown Negrounds poster](http://uploads.ungrounded.net/tmp/1911000/1911716/file/alternate/alternate_2_r7.zip/) -chart/assets
+- [unknown Negrounds poster](http://uploads.ungrounded.net/tmp/1911000/1911716/file/alternate/alternate_2_r7.zip/) -chart/assets
 
-# stuff i added 
+# stuff i already added/made
 
 week 8 storymenu image
 

@@ -18,10 +18,8 @@ og Funkin Team
 
 week 8 storymenu image
 
-erect Chart (coming soon)
- 
-NoteCombo thing (coming soon)
-
+# stuff i will add
+dont know yet
 
 # html5
 
